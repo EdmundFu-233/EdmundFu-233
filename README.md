@@ -5,7 +5,6 @@
 <p align="center">
   <a href="https://edmundfu-233.github.io"><img src="https://img.shields.io/badge/Website-edmundfu--233.github.io-blue?style=flat-square&logo=google-chrome&logoColor=white"/></a>
   <a href="https://github.com/EdmundFu-233"><img src="https://img.shields.io/badge/GitHub-%40EdmundFu--233-181717?style=flat-square&logo=github"/></a>
-  <a href="https://www.linkedin.com/in/zhihao-fu-21191a2ba/"><img src="https://img.shields.io/badge/LinkedIn-Zhihao%20Fu-0A66C2?style=flat-square&logo=linkedin"/></a>
   <img src="https://img.shields.io/badge/Location-Waterloo%2C%20ON%2C%20Canada-e17055?style=flat-square&logo=google-maps"/>
   <img src="https://komarev.com/ghpvc/?username=EdmundFu-233&style=flat-square&color=brightgreen"/>
 </p>
@@ -20,7 +19,7 @@ I'm **Zhihao Fu (EdmundFu)**, a Computer Science student at **University of Wate
 - 🌱 Deepening my expertise in **Go, Rust, and Swift**
 - 💡 Interested in **low-level networking, developer tooling, and open-source**
 - 🎯 Goal: Build software that ships — reliable, well-tested, and user-focused
-- 📫 Reach me at: **[edmundfu.dev@gmail.com](mailto:edmundfu.dev@gmail.com)**
+- 📫 Reach me at: **[your.email@example.com](mailto:your.email@example.com)** — _will update with real email_
 
 ---
 
@@ -121,9 +120,8 @@ Designed a helper tool for deploying diskless Linux compute nodes through PXE bo
 I'm always open to interesting conversations, collaboration opportunities, and new challenges. Whether it's backend systems, network programming, or full-stack projects — feel free to reach out!
 
 <p align="center">
-  <a href="mailto:edmundfu.dev@gmail.com"><img src="https://img.shields.io/badge/Email-edmundfu.dev%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-TBD-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
   <a href="https://edmundfu-233.github.io"><img src="https://img.shields.io/badge/Website-Portfolio-000000?style=flat-square&logo=vercel"/></a>
-  <a href="https://www.linkedin.com/in/zhihao-fu-21191a2ba/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin"/></a>
 </p>
 
 <div align="center">
