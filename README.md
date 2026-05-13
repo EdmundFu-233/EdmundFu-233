@@ -19,7 +19,7 @@ I'm **Zhihao Fu (EdmundFu)**, a Computer Science student at **University of Wate
 - 🌱 Deepening my expertise in **Go, Rust, and Swift**
 - 💡 Interested in **low-level networking, developer tooling, and open-source**
 - 🎯 Goal: Build software that ships — reliable, well-tested, and user-focused
-- 📫 Reach me at: **[your.email@example.com](mailto:your.email@example.com)** — _will update with real email_
+- 📫 Reach me at: **[fuzhihao321@gmail.com](mailto:fuzhihao321@gmail.com)**
 
 ---
 
@@ -120,7 +120,7 @@ Designed a helper tool for deploying diskless Linux compute nodes through PXE bo
 I'm always open to interesting conversations, collaboration opportunities, and new challenges. Whether it's backend systems, network programming, or full-stack projects — feel free to reach out!
 
 <p align="center">
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-TBD-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:fuzhihao321@gmail.com"><img src="https://img.shields.io/badge/Email-fuzhihao321%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
   <a href="https://edmundfu-233.github.io"><img src="https://img.shields.io/badge/Website-Portfolio-000000?style=flat-square&logo=vercel"/></a>
 </p>
 
